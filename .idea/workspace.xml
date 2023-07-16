@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c304ce9d-512c-4866-a7e0-eb4f6f2150fc" name="Changes" comment="Second task delivery">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_1/Lesson1_task3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c304ce9d-512c-4866-a7e0-eb4f6f2150fc" name="Changes" comment="Third task delivery">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_1/Lesson4_task4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689519318417</updated>
       <workItem from="1689519319694" duration="2412000" />
-      <workItem from="1689522721970" duration="3277000" />
+      <workItem from="1689522721970" duration="4479000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1689520897362</created>
@@ -120,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689524843079</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Third task delivery">
+      <created>1689526095418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689526095418</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +147,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="First task delivery" />
     <MESSAGE value="Second task delivery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second task delivery" />
+    <MESSAGE value="Third task delivery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third task delivery" />
   </component>
 </project>
