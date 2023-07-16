@@ -8,6 +8,6 @@ package lesson_1
         //val numberOfEmployee : Int = 2000
         //println("${numberOfEmployee}")
 
-        val numberOfEmployee : Int = 2000 - 1
+        var numberOfEmployee : Int = 2000 - 1
         println("${numberOfEmployee}")
     }
