@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c304ce9d-512c-4866-a7e0-eb4f6f2150fc" name="Changes" comment="Fourth task delivery">
+    <list default="true" id="c304ce9d-512c-4866-a7e0-eb4f6f2150fc" name="Changes" comment="First task of second lesson delivery">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_1/Lesson1_task5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_2/Lesson2_task1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lesson_2/Lesson2_task2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson1-task1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689519318417</updated>
       <workItem from="1689519319694" duration="2412000" />
-      <workItem from="1689522721970" duration="10777000" />
+      <workItem from="1689522721970" duration="11951000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1689520897362</created>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689527338180</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="First task of second lesson delivery">
+      <created>1689536788486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689536788486</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +175,7 @@
     <MESSAGE value="Second task delivery" />
     <MESSAGE value="Third task delivery" />
     <MESSAGE value="Fourth task delivery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth task delivery" />
+    <MESSAGE value="First task of second lesson delivery" />
+    <option name="LAST_COMMIT_MESSAGE" value="First task of second lesson delivery" />
   </component>
 </project>
